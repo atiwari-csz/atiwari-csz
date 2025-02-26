@@ -1,8 +1,8 @@
 # Hi, I'm Abhishek Tiwari 
 
 🎓 **PhD Student at IIT Delhi**  
-💡 Interested in ML, NLP as well as Theoretical Computer Science
-🖥️ Teaching Assistant for C Programming  
+- Interested in ML, NLP as well as Theoretical Computer Science
+- Teaching Assistant for C Programming  
 
 ## 🏫 Education  
 - **PhD in Computer Science**, IIT Delhi (2025 - Present)  
